@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">Warangal Tourism</string>
+  <string name="description_format">%1$s\n\n%2$s</string>
+  <string name="addUnit">ca-app-pub-8172825757124969/8264018278</string>
+  <string name="addUnit2">ca-app-pub-8172825757124969/2081753306</string>
+  <string name="about">This is Rk Reddy at Vagabond works sending his regards</string>
+</resources>

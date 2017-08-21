@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <array name="images">
+    <item>@drawable/thousandpillar</item>
+    <item>@drawable/fortwarangal</item>
+    <item>@drawable/ramappa</item>
+    <item>@drawable/laknavaram</item>
+    <item>@drawable/kotagullu</item>
+    <item>@drawable/ramappa_lake</item>
+    <item>@drawable/pakhal</item>
+    <item>@drawable/bhadrakali</item>
+    <item>@drawable/khushmahal</item>
+    <item>@drawable/sammakkasarakka</item>
+    <item>@drawable/bhadrakali_lake</item>
+    <item>@drawable/eturunagaram</item>
+    <item>@drawable/bheemudipadam</item>
+    <item>@drawable/pandavulacaves</item>
+    <item>@drawable/padmakshi</item>
+    <item>@drawable/waddepally</item>
+    <item>@drawable/palakurthi</item>
+    <item>@drawable/park</item>
+    <item>@drawable/planetarium</item>
+    <item>@drawable/lion</item>
+  </array>
+
+  <string-array name="names">
+    <item>Thousand pillar</item>
+    <item>Warangal Fort</item>
+    <item>Ramappa</item>
+    <item>Laknavaram Lake</item>
+    <item>kota gullu</item>
+    <item>Ramappa Lake</item>
+    <item>Pakhal</item>
+    <item>Bhadrakali Temple</item>
+    <item>Khush Mahal</item>
+    <item>Sammakka Jatara</item>
+    <item>Bhadrakali Lake</item>
+    <item>Eturunagaram Forest</item>
+    <item>Bheemudi padam</item>
+    <item>Pandavula Guhalu</item>
+    <item>Padmakshi gutta</item>
+    <item>Wadepally Reservoir</item>
+    <item>Palakurthi</item>
+    <item>Musical garden</item>
+    <item>Planetarium</item>
+    <item>Vana vignan</item>
+  </string-array>
+
+  <string-array name="descriptions">
+    <item>Thousand Pillar Temple belongs to the 12th century. It is located near Hanamkonda-Warangal highway. The construction displays the influence of Kakatiyan architectural style. The temple is dedicated to three gods namely Shiva, Surya and Vishnu. The temple earns the name owing to the thousand pillars that are uniquely adorned and carved. Rock cut elephants and the intricate stonework add beauty to the temple. Excellent sculptures and perforated screens need special mention.</item>
+    <item>Warangal Fort belongs to the 13th century when it was constructed by King Ganapati Deva. The fort was intended to be his second capital. The exquisite carved pillars and arches add attraction to the fort. The fort houses a temple, which is dedicated to Swayambhudevi, Mother Earth. The fort being invincible was called the seat of power. The main fort consists of 45 towers. The entrance of the fort is built in South Indian architectural style. The fort is in ruins but still provides room for interesting study that aids in research of ancient history and sculptures.</item>
+    <item>Ramappa Temple also known as the Ramalingeswara temple, is located 77 km from Warangal, the ancient capital of the Kakatiya dynasty, 157 km from Hyderabad in the state of Telangana in southern India. It lies in a valley at Palampet village of Venkatapur Mandal, in erstwhile Mulug Taluq of Jayashankar Bhupalpally district, a tiny village long past its days of glory in the 13th and 14th centuries.[2] An inscription in the temple dates it to the year 1213 AD and said to have been built by a General Recherla Rudra, during the period of the Kakatiya ruler Ganapati Deva.</item>
+    <item>The lake is spread over an area of 10,000 acres and holds about 2.135 tmcft of water. It irrigates over 3,500 acres of land. It was built by Kakatiya kings. It has about 13 islands in it and has a 160 metres long hanging bridge, which connects three islands. It is surrounded by a thick deciduous forest and it is a very popular tourist spot.
+          The new facilities including cottages, a viewing tower, a pantry, and a ferry from the main banks to the island amidst the serene waters has been opened for the nature loving tourists.</item>
+    <item>Ghanpur temples, popularly known as Kota Gullu, are a group of 12th century stone temples that are located in Ghanpur near Warangal in Telangana, India. Kota Gullu were constructed by King Ganapatideva, a ruler of the famous Kakatiya dynasty, during the period 1199–1260 AD. Kota Gullu comprises about 20 temples, all varying in size and design that exhibits the marvelous architectural work by Kakatiyas </item>
+    <item>Ramappa Lake is located near Ramappa temple. It was constructed by Kakatiya rulers. The picturesque lake spreads across 82 sq. kms and with hill ranges at the backdrop, the views are spectacular. A splendid place to walk, the lake offers boating facilities as well. The place is serene and you will find yourself unwinding to enjoy the beauty of nature.
+     The various tourist places in Warangal boast of the cultural richness and abundant natural beauty. Every place here reminds you of its historical past. Have a great time enjoying the tour for your eyes and your interest.</item>
+    <item>Pakhal Lake is a man made lake believed to have been constructed during 1213 AD. The lake is situated amidst lush forests and hilly terrain. The 30 sq. km lake offers breathtaking views. The lake has yet another attraction in Pakhal Wildlife Sanctuary, which borders along the shorelines of the lake. A stunning range of plants and animals are found here.</item>
+    <item>Bhadrakali Temple belongs to the 8th century and it is among the oldest temples constructed for Goddess Bhadrakali. The idol of Goddess Kali is enshrined in this temple, which is situated on a hill. The ancient temple was built during the reign of Kakatiya Dynasty. The construction bears the influence of Chalukya architectural style. The rock formations that were naturally formed around the temple make the place more serene.</item>
+    <item>Khush Mahal silent tribute to the chivalrous and culturally rich past built by Shitabh Khan.  This structure, said to be built over the site of a Kakatiya palace, may have been used as an audience hall by Shitab Khan, the 16th century Qutb Shahi governor of Warangal. However it was probably built during the 14th century Tughlak occupation of the fort, the only building from that period. An indication to a glorious past is the Khush Mahal, a masterpiece built by Shitabh Khan.</item>
+    <item>Sammakka Saralamma Jatara or Medaram Jatara is a tribal festival of honouring the goddesses celebrated in the state of Telangana, India. The Jatara begins at Medaram in Tadvai mandal in Jayashankar Bhupalpally district.
+          Medaram is a remote place in the Eturnagaram Wildlife Sanctuary, a part of Dandakaranya, the largest surviving forest belt in the Deccan.Jatara is celebrated during the time the goddesses of the tribals are believed to visit them. It is believed that after Kumbha Mela, the Medaram jatara attracts the largest number of devotees in the country</item>
+    <item>The Bhadrakali Lake is a scenic lake practically in the heart of Warangal. The lake\'s pristine waters form a major drinking water resource for the the town. The famous Bhadrakali Temple is located on the banks of this lake as is the relatively new attraction - Dancing Fountains.</item>
+    <item>The village Eturnagaram is a beautiful place in Warangal, which is amidst dense forest. With river Godavari running close by, the sanctuary offers breathtaking views. You could spot some rare animals in the sanctuary, which is one of the earliest sanctuaries established in the country. The animals found here include tiger, panther, jackals, wolf, deer, sloth bear and many more.</item>
+    <item>About 55 km from Warangal, hidden inside a dense forest, is a perennial waterfall known as Bheemuni Padam jalapatham.
+    Due to lack of proper facilities, it is not popular like the Laknavaran lake in the district. The Bheemuni Padam waterfall came into limelight a couple of years ago when determined tourists began making their way to it. About 100 people visit it every day.</item>
+    <item>The Warangal region of Telangana state has a rich pre-historic heritage and the Pandavula Guhalu is a cave system that is just waiting to be explored. Situated in the Thirumalagiri village of Regonda Mandal in Warangal, this chain of tiny hillocks lies about 50 kms from Warangal and 195 kms from Hyderabad along the Warangal-Mahadevpur route. The special topography of this place makes it very conducive for rock climbing too. </item>
+    <item>Padmakshi Gutta or Kadalalaya basadi consists of a Jain temple dedicated to Goddess Padmavati, located on a hilltop in the heart of the town of Hanamakonda, was originally constructed during Kakatiya reign. Till the Kakatiya Kings renovated and established the Goddess Padmakshi, previously it was a Basadi a Jain temple. The temple also has rich sculpture of the Jain Tirthankara and other Jain Gods and Goddesses. The Kadalalaya basadi or Padmakshi Temple is built on a large rocky out crop.
+      Once a year, Lakhs of women come to this place to celebrate the famous Bathukamma festival and immerse the flowers in the pond at the foot of the Padmakshi hillock</item>
+    <item>Wadepally lake is situated in Hanamkonda, warangal. Its a man made lake built during Kakatiya era. It also serves as biggest source of drinking water for the town. Its spread across 600 acres, with a storage capacity of 132tmc. It is being transormed into a hangout place and sunsets are very beautiful. Evening is best time to capture scenic beauty</item>
+    <item>The Palakurthi sub division (mandal) in the Warangal District of Telangana is famous for its rich historical value. It has been known to be the birthplace of poets and revolutionaries of India. It is also known to house several famous temples. The Sri Someshwara Lakshmi Narasimha Swamy temple is one such temple that is found in Palakurthi.
+          Perched on a hillock at a height of 120 metres, the Someshwara Lakhsmi Narasimha Temple is unique in its structure and location. The legend that led to its creation opines that Lord Shiva and Lord Vishnu, the two powerful gods of the Hindu Trinity, incarnated in two caves formed next to each other on the same hillock. Thus the Someshwara Lakshmi Narasimha Temple came to be formed in these caves</item>
+    <item>This one of a kind, enchanting Musical garden in Warangal is located nearby the famous Bhadrakali temple. A massive garden, it overs a total of 15 acres.
+          A visually pleasing musical fountain with eye catching colorful lights is the main attraction in this garden. A mammoth rock and an artificial waterfall in the rock structure are placed as the background of Kakatiya Musical Garden. The authorities have also made a man made lake for facilitating leisure activities such as boating. The musical fountains start from 7pm everyday.</item>
+    <item>Warangal Planetarium also called Prataparuda Planetarium is located in Warangal and aims to create awareness regarding astronomy among the cross section of society. Regularly organized shows at the Planetarium look to package education and entertainment together while throwing light on the facts and figures that the universe holds.
+          The Warangal Planetarium emphasizes on the need for scientific thinking, especially among the younger generation and serves as the ideal outing for those who have inquisitive children</item>
+    <item>In their endeavor to protect and preserve the sanctity of nature, the Warangal District Administration has constructed the Van Vigyan Park. Also known as the Vana Vigyan Kendra, the park is both an educational as well as an entertainment centre.
+         The Vana Vigyan Park is located in Hunter road in Hanamkonda city in the historical district of Warangal. The park is built and maintained by the Forest Department and is sprawled over an area of 50 acres.
+          The park houses a variety of flora and fauna which are looked after by the Forest Department officials. The place is a happy habitat for animals like spotted deer, nilgai, sambhar, crocodiles, rabbits, tortoises and sloth bear. Pleasant chirping of birds helps to add to the beauty of the delightful surroundings. Feathered friends like peacock, pheasants, lovebirds, pigeons, ring doves and ducks welcome guests who come to marvel at their beauty.</item>
+  </string-array>
+
+  <string-array name="urls">
+    <item>https://en.wikipedia.org/wiki/Thousand_Pillar_Temple</item>
+    <item>https://en.wikipedia.org/wiki/Warangal_Fort</item>
+    <item>https://en.wikipedia.org/wiki/Ramappa_Temple</item>
+    <item>https://en.wikipedia.org/wiki/Laknavaram_Lake</item>
+    <item>https://rangandatta.wordpress.com/2014/02/05/ghanpur-group-of-temples-ghanpur-mulug-warangal-ap/</item>
+    <item>https://en.wikipedia.org/wiki/Ramappa_Lake</item>
+    <item>https://en.wikipedia.org/wiki/Pakhal_Lake</item>
+    <item>https://en.wikipedia.org/wiki/Bhadrakali_Temple,_Warangal</item>
+    <item>http://cityofwarangal.com/khush-mahal/</item>
+    <item>https://en.wikipedia.org/wiki/Sammakka_Saralamma_Jatara</item>
+    <item>https://en.m.wikipedia.org/wiki/Bhadrakali_Lake</item>
+    <item>https://en.wikipedia.org/wiki/Eturnagaram</item>
+    <item>http://www.deccanchronicle.com/150824/nation-current-affairs/article/hidden-waterfall-warangal-forest</item>
+    <item>http://www.deccanchronicle.com/lifestyle/travel/070117/warangal-opens-up-a-perfect-weekend-spot.html</item>
+    <item>https://en.wikipedia.org/wiki/Padmakshi_Temple</item>
+    <item>https://en.m.wikipedia.org/wiki/Waddepally_Lake</item>
+    <item>http://www.exploretelangana.com/sri-someshwara-lakshmi-narasimha-swamy-temple/</item>
+    <item>http://www.exploretelangana.com/kakatiya-musical-garden-warangal/</item>
+    <item>http://www.letsseeindia.com/tourist-places/Musical-Garden-and-Planetarium-place/343</item>
+    <item>http://www.exploretelangana.com/vana-vigyan-park-a-nature-park-of-warangal-telangana-tourism/</item>
+  </string-array>
+</resources>
